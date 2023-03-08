@@ -20,6 +20,8 @@ jobs:
         using: node12
     - name: Redefine .env
       run: php -r "file_exists('.env') || copy('.env.example', '.env');"
+    - name: Update Composer
+      run: composer update
     - name: Install Dependencies
       run: composer install -q --no-ansi --no-interaction --no-scripts --no-progress --prefer-dist
     - name: Generate key
