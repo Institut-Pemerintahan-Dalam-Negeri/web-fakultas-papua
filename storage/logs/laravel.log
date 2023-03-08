@@ -1,0 +1,66 @@
+[2023-03-08 07:39:01] local.ERROR: There are no commands defined in the "breeze" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"breeze\" namespace. at /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php:632)
+[stacktrace]
+#0 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(683): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(256): Symfony\\Component\\Console\\Application->find()
+#2 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(168): Symfony\\Component\\Console\\Application->doRun()
+#3 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#4 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#5 /var/www/html/ipdn/web-fakultas-papua/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
+[2023-03-08 07:39:05] local.ERROR: There are no commands defined in the "breeze" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"breeze\" namespace. at /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php:632)
+[stacktrace]
+#0 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(683): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(256): Symfony\\Component\\Console\\Application->find()
+#2 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(168): Symfony\\Component\\Console\\Application->doRun()
+#3 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#4 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#5 /var/www/html/ipdn/web-fakultas-papua/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
+[2023-03-08 07:39:35] local.ERROR: There are no commands defined in the "install" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"install\" namespace. at /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php:632)
+[stacktrace]
+#0 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(683): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(256): Symfony\\Component\\Console\\Application->find()
+#2 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(168): Symfony\\Component\\Console\\Application->doRun()
+#3 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#4 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#5 /var/www/html/ipdn/web-fakultas-papua/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
+[2023-03-08 07:42:09] local.ERROR: There are no commands defined in the "breeze" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"breeze\" namespace. at /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php:632)
+[stacktrace]
+#0 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(683): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(256): Symfony\\Component\\Console\\Application->find()
+#2 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(168): Symfony\\Component\\Console\\Application->doRun()
+#3 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#4 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#5 /var/www/html/ipdn/web-fakultas-papua/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
+[2023-03-08 07:42:15] local.ERROR: There are no commands defined in the "breeze" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"breeze\" namespace. at /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php:632)
+[stacktrace]
+#0 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(683): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(256): Symfony\\Component\\Console\\Application->find()
+#2 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(168): Symfony\\Component\\Console\\Application->doRun()
+#3 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#4 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#5 /var/www/html/ipdn/web-fakultas-papua/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
+[2023-03-08 07:49:55] development.ERROR: The "--watch" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"--watch\" option does not exist. at /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Input/ArgvInput.php:217)
+[stacktrace]
+#0 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Input/ArgvInput.php(146): Symfony\\Component\\Console\\Input\\ArgvInput->addLongOption()
+#1 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Input/ArgvInput.php(79): Symfony\\Component\\Console\\Input\\ArgvInput->parseLongOption()
+#2 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Input/ArgvInput.php(68): Symfony\\Component\\Console\\Input\\ArgvInput->parseToken()
+#3 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Input/Input.php(52): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#4 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Command/Command.php(271): Symfony\\Component\\Console\\Input\\Input->bind()
+#5 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Console/Command.php(164): Symfony\\Component\\Console\\Command\\Command->run()
+#6 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(1022): Illuminate\\Console\\Command->run()
+#7 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(314): Symfony\\Component\\Console\\Application->doRunCommand()
+#8 /var/www/html/ipdn/web-fakultas-papua/vendor/symfony/console/Application.php(168): Symfony\\Component\\Console\\Application->doRun()
+#9 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#10 /var/www/html/ipdn/web-fakultas-papua/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#11 /var/www/html/ipdn/web-fakultas-papua/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#12 {main}
+"} 
